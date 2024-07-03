@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.formclass{
+    text-align: center;
+    background-color:cadetblue;
+    height: 100%;
+    width: 800px;
+    
+}
+
+label{
+ font-weight: bolder;
+ font-size: larger;
+}
+ input {
+    /* box-sizing: border-box; */
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: blue;
+    height: 30px;
+    width: 200px;
+ }
+
+ 
